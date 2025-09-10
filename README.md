@@ -16,8 +16,6 @@ v# Hi 👋, I'm Ayush Maheshwari
 
 ### 📊 GitHub Stats  
 
-### 📊 GitHub Stats  
-
 <p align="center">
   <picture>
     <source 
