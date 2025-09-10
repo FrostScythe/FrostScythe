@@ -16,15 +16,30 @@ v# Hi 👋, I'm Ayush Maheshwari
 
 ### 📊 GitHub Stats  
 
+### 📊 GitHub Stats  
+
 <p align="center">
-  <!-- Light Mode -->
-  <img src="https://github-readme-stats.vercel.app/api?username=frostscythe&show_icons=true&hide_border=true&theme=default#gh-light-mode-only" height="150"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=frostscythe&hide_border=true&theme=default#gh-light-mode-only" height="150"/>
-  
-  <!-- Dark Mode -->
-  <img src="https://github-readme-stats.vercel.app/api?username=frostscythe&show_icons=true&hide_border=true&theme=tokyonight#gh-dark-mode-only" height="150"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=frostscythe&hide_border=true&theme=tokyonight#gh-dark-mode-only" height="150"/>
-</p>  
+  <picture>
+    <source 
+      srcset="https://github-readme-stats.vercel.app/api?username=frostscythe&show_icons=true&hide_border=true&theme=tokyonight" 
+      media="(prefers-color-scheme: dark)" />
+    <source 
+      srcset="https://github-readme-stats.vercel.app/api?username=frostscythe&show_icons=true&hide_border=true&theme=default" 
+      media="(prefers-color-scheme: light)" />
+    <img src="https://github-readme-stats.vercel.app/api?username=frostscythe&show_icons=true&hide_border=true" height="150"/>
+  </picture>
+
+  <picture>
+    <source 
+      srcset="https://github-readme-streak-stats.herokuapp.com?user=frostscythe&hide_border=true&theme=tokyonight" 
+      media="(prefers-color-scheme: dark)" />
+    <source 
+      srcset="https://github-readme-streak-stats.herokuapp.com?user=frostscythe&hide_border=true&theme=default" 
+      media="(prefers-color-scheme: light)" />
+    <img src="https://github-readme-streak-stats.herokuapp.com?user=frostscythe&hide_border=true" height="150"/>
+  </picture>
+</p>
+
 
 ---
 
