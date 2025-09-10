@@ -1,4 +1,4 @@
-# Hi 👋, I'm Ayush Maheshwari  
+v# Hi 👋, I'm Ayush Maheshwari  
 
 💻 Passionate Java Developer from India  
 🌱 Currently exploring **Spring Boot, React, and full-stack development**  
@@ -14,11 +14,17 @@
 
 ---
 
-### 📊 GitHub Stats
+### 📊 GitHub Stats  
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=frostscythe&show_icons=true&hide_border=true&theme=tokyonight" height="150"/> 
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=frostscythe&hide_border=true&theme=tokyonight" height="150"/>
-</p>
+  <!-- Light Mode -->
+  <img src="https://github-readme-stats.vercel.app/api?username=frostscythe&show_icons=true&hide_border=true&theme=default#gh-light-mode-only" height="150"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=frostscythe&hide_border=true&theme=default#gh-light-mode-only" height="150"/>
+  
+  <!-- Dark Mode -->
+  <img src="https://github-readme-stats.vercel.app/api?username=frostscythe&show_icons=true&hide_border=true&theme=tokyonight#gh-dark-mode-only" height="150"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=frostscythe&hide_border=true&theme=tokyonight#gh-dark-mode-only" height="150"/>
+</p>  
 
 ---
 
